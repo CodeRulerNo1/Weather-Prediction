@@ -7,7 +7,7 @@ import numpy as np
 
 # Load the model
 try:
-    rf_regressor = joblib.load(r'D:\project\Weather-Prediction\rf_regressor_model (1).pkl')
+    rf_regressor = joblib.load(r'rf_regressor_model (1).pkl')
 except FileNotFoundError:
     st.error("Model file not found. Please check the path.")
     st.stop()
