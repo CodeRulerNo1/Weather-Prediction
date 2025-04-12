@@ -12,7 +12,7 @@ Weather forecasting is a critical component of many industries, including agricu
 
 - [Scheduler for Regular Updates](Daily_Model_Trainer.py)
 
-  It updates the data and model from local machine to github repo.
+  It updates the data and model from local machine to github repo. by taking data from weather api.
 
 - Supaboard Dashboard
 
