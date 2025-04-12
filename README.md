@@ -25,15 +25,15 @@ Weather forecasting is a critical component of many industries, including agricu
 
 - Install essential libraries
 
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 
 - Clone repo
 
-'''git clone https://github.com/CodeRulerNo1/Weather-Prediction'''
+```git clone https://github.com/CodeRulerNo1/Weather-Prediction```
 
 - Run app.py
 
-'''py -m streamlit run app.py'''
+```py -m streamlit run app.py```
 
 - Open local website
 - Give values to the input parameters
