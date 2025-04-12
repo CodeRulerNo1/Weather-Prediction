@@ -57,7 +57,7 @@ Weather forecasting is a critical component of many industries, including agricu
 ![modelperf](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145931.png)
 
 - Feature Importance
-- 
+  
 ![imp](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145958.png)
 
 
@@ -67,6 +67,6 @@ Weather forecasting is a critical component of many industries, including agricu
 - [Weather Api](https://www.weatherapi.com)
 - [StreamLit for Model Demo](https://streamlit.io)
 
-## Authors
+## Author
 
 - [@Ichhabal Singh](https://www.github.com/CodeRulerNo1)
