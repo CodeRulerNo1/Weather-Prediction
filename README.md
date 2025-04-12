@@ -41,12 +41,12 @@ py -m streamlit run app.py
 
 ## Visualization
 
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145433.png)
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145711.png)
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145745.png)
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145827.png)
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145931.png)
-![data_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%145958.png)
+![cov](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145711.png)
+![rain](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145827.png)
+![forest](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145433.png)
+![modelperf](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145931.png)
+![imp](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145958.png)
+![wea](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145745.png)
 
 ## Acknowledgements
 
