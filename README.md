@@ -41,13 +41,17 @@ Weather forecasting is a critical component of many industries, including agricu
 - Press predict button for results
 
 ## Visualization
-
-![cov](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145711.png)
+- Data Visualiztion
 ![rain](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145827.png)
-![forest](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145433.png)
-![modelperf](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145931.png)
-![imp](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145958.png)
 ![wea](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145745.png)
+![cov](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145711.png)
+- Model Structure
+![forest](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145433.png)
+- Model Performance
+![modelperf](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145931.png)
+- Feature Importance
+![imp](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Model_img/Screenshot%202025-04-12%20145958.png)
+
 
 ## Acknowledgements
 
