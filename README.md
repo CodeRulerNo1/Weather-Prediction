@@ -5,8 +5,10 @@ Weather forecasting is a critical component of many industries, including agricu
 ## Components
 
 - [ML Model for Weather Forecasting](Base_Model_Training.ipynb)
+  Random Forest Regression model is used in this problem.
 - [Scheduler for Regular Updates](Daily_Model_Trainer.py)
-- [Supaboard Dashboard]
+  It updates the data and model from local machine to github repo.
+- Supaboard Dashboard
   
   ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121400.png)
   ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121458.png)
