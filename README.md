@@ -9,12 +9,10 @@ Weather forecasting is a critical component of many industries, including agricu
 - [Supaboard Dashboard]
   
   ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121400.png)
+  ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121458.png)
+  ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121543.png)
+  ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121633.png)
   
-  ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121458.png)
-  
-  ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121543.png)
-  
-  ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121633.png)
 
 ## Acknowledgements
 
