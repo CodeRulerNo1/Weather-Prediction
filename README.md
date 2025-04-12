@@ -7,9 +7,13 @@ Weather forecasting is a critical component of many industries, including agricu
 - [ML Model for Weather Forecasting](Base_Model_Training.ipynb)
 - [Scheduler for Regular Updates](Daily_Model_Trainer.py)
 - [Supaboard Dashboard]
+  
   ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121400.png)
+  
   ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121458.png)
+  
   ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121543.png)
+  
   ![Dashboard_Screenshot](Supaboard Dashboard/Screenshot 2025-04-12 121633.png)
 
 ## Acknowledgements
