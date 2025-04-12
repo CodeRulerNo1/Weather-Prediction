@@ -61,8 +61,8 @@ data['description'] = [current['condition'].get('text')]
 data['icon'] = [current['condition'].get('icon')]
 
 df = pd.DataFrame(data)
-df0 = pd.read_csv(r'D:\project\Hackathon\Punjab 2022-09-01 to 2025-04-26.csv')
-df1= pd.read_csv(r'D:\project\Hackathon\weather_data.csv')
+df0 = pd.read_csv(r'D:\project\Weather-Prediction\Punjab 2022-09-01 to 2025-04-26.csv')
+df1= pd.read_csv(r'D:\project\Weather-Prediction\Punjab 2022-09-01 to 2025-04-26.csv')
 df0 = df0.set_index("datetime")
 
 def wind_direction_to_degrees(direction):
@@ -93,7 +93,7 @@ df['winddir'] = df['winddir'].apply(wind_direction_to_degrees)
 
 
 # Load the RandomForestRegressor model
-rf_regressor = joblib.load(r'D:\project\Hackathon\rf_regressor_model (1).pkl')
+rf_regressor = joblib.load(r'D:\project\Weather-Prediction\rf_regressor_model (1).pkl')
 
 
 # Assuming 'features_cols' and 'target_col' are defined as before
@@ -130,7 +130,7 @@ print(f"R-squared: {r2}")
 
 
 # Save the RandomForestRegressor model
-joblib.dump(rf_regressor, r'D:\project\Hackathon\rf_regressor_model (1).pkl')
+joblib.dump(rf_regressor, r'D:\project\Weather-Prediction\rf_regressor_model (1).pkl')
 
 
 
