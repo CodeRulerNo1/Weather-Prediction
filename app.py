@@ -13,7 +13,7 @@ except FileNotFoundError:
     st.stop()
 
 # Define input features
-st.title("Temperature Prediction with Random Forest")
+st.title("Punjab Temperature Prediction with Random Forest")
 
 cloudcover = st.number_input("Cloud Cover (%)", min_value=0, max_value=100, step=1)
 winddir = st.number_input("Wind Direction (Degrees)", min_value=0, max_value=360, step=1)
