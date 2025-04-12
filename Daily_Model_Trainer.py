@@ -99,7 +99,7 @@ rf_regressor = joblib.load(r'D:\project\Weather-Prediction\rf_regressor_model (1
 # Assuming 'features_cols' and 'target_col' are defined as before
 features_cols = ['cloudcover','winddir','sealevelpressure','windgust','humidity', 'windspeed', 'precip', 'uvindex','dew']
 df=pd.concat([df, df1], axis=0, ignore_index=True)
-df.to_csv(r'D:\project\Hackathon\weather_data.csv', index=False)
+df.to_csv(r'D:\project\Weather-Prediction\weather_data.csv', index=False)
 X = df0[features_cols]
 y = df0['temp']
 X_new = df0[features_cols]
