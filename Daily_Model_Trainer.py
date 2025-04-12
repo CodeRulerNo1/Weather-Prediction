@@ -62,7 +62,7 @@ data['icon'] = [current['condition'].get('icon')]
 
 df = pd.DataFrame(data)
 df0 = pd.read_csv(r'D:\project\Weather-Prediction\Punjab 2022-09-01 to 2025-04-26.csv')
-df1= pd.read_csv(r'D:\project\Weather-Prediction\Punjab 2022-09-01 to 2025-04-26.csv')
+df1= pd.read_csv(r'D:\project\Weather-Prediction\weather_data.csv')
 df0 = df0.set_index("datetime")
 
 def wind_direction_to_degrees(direction):
