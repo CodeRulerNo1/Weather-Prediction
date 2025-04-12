@@ -22,10 +22,10 @@ Weather forecasting is a critical component of many industries, including agricu
 
 ## ML Model Demo
 - Install essential libraries
-- 
+  
 pip install -r requirements.txt
 - Clone repo
-- 
+  
 git clone https://github.com/CodeRulerNo1/Weather-Prediction
 
 - Run app.py
