@@ -16,12 +16,12 @@ except FileNotFoundError:
 st.title("Punjab Temperature Prediction with Random Forest")
 
 cloudcover = st.number_input("Cloud Cover (%)", min_value=0, max_value=100, step=1)
-winddir = st.number_input("Wind Direction (Degrees)", min_value=0, max_value=360, step=1)
 sealevelpressure = st.number_input("Sea Level Pressure (hPa)", min_value=900.0, max_value=1100.0, step=0.1)
+winddir = st.number_input("Wind Direction (Degrees)", min_value=0, max_value=360, step=1)
 windgust = st.number_input("Wind Gust (km/h)", min_value=0.0, max_value=200.0, step=0.1)
-humidity = st.number_input("Humidity (%)", min_value=0, max_value=100, step=1)
 windspeed = st.number_input("Wind Speed (km/h)", min_value=0.0, max_value=150.0, step=0.1)
 precip = st.number_input("Precipitation (mm)", min_value=0.0, max_value=100.0, step=0.1)
+humidity = st.number_input("Humidity (%)", min_value=0, max_value=100, step=1)
 uvindex = st.slider("UV Index", min_value=0, max_value=11, step=1)
 dew = st.number_input("Dew Point (°C)", min_value=-20.0, max_value=30.0, step=0.1)
 
