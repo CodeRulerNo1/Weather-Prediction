@@ -14,6 +14,8 @@ Weather forecasting is a critical component of many industries, including agricu
 
   It updates the data and model from local machine to github repo. by taking data from weather api.
 
+  Using Task Scheduler, Daily_Model_Trainer.py and daily_commit.bat files are run to update the model and commit it to repo. 
+
 - Supaboard Dashboard
 
   ![Dashboard_Screenshot](https://github.com/CodeRulerNo1/Weather-Prediction/blob/main/Supaboard%20Dashboard/Screenshot%202025-04-12%20121400.png)
